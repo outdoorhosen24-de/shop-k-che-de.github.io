@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "shop-k\u00fcche.de",
+    "hostname": "https://www.shop-k\u00fcche.de/",
+    "email": "shop-k\u00fcche.desurrealnetworks.io",
+    "organization": "shop-k\u00fcche.de",
+    "logoText": "Shop-k\u00fcche.de",
+    "title": "K\u00fcchenm\u00f6bel",
+    "subline": "Der Online Shop f\u00fcr K\u00fcchenm\u00f6bel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "3970928",
+        "4527644",
+        "4527396",
+        "7365554",
+        "7564768",
+        "7564800"
+    ],
+    "winnerProducts": [
+        "7361900",
+        "7368939",
+        "7564735"
+    ],
+    "featuredCategories": [
+        "K\u00fcchenschr\u00e4nke",
+        "K\u00fcchenunterschr\u00e4nke",
+        "K\u00fcchenschr\u00e4nke",
+        "K\u00fcchen-H\u00e4ngeschr\u00e4nke",
+        "K\u00fcchenschr\u00e4nke",
+        "Herdumbauschr\u00e4nke"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "K\u00fcchenm\u00f6bel",
-        "featureText": "Your featured text goes here",
+        "featureText": "K\u00fcchenm\u00f6bel sind ein wesentlicher Bestandteil einer jeden K\u00fcche. Sie k\u00f6nnen Ihre K\u00fcche mit den richtigen M\u00f6beln vollst\u00e4ndig ausstatten. Wenn Sie auf der Suche nach den richtigen K\u00fcchenm\u00f6beln sind, sollten Sie sich f\u00fcr einen Shop entscheiden, der sich auf K\u00fcchenm\u00f6bel spezialisiert hat. In einem solchen Shop finden Sie eine gro\u00dfe Auswahl an unterschiedlichen K\u00fcchenm\u00f6beln. Sie k\u00f6nnen sich die M\u00f6bel in Ruhe ansehen und ausw\u00e4hlen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "K\u00fcchenm\u00f6bel - Die besten M\u00f6bel f\u00fcr Ihre K\u00fcche",
+            "metaDescription": "K\u00fcchenm\u00f6bel - M\u00f6bel f\u00fcr die K\u00fcche in bester Qualit\u00e4t und zu fairen Preisen. Jetzt online bestellen!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "K\u00fcchenm\u00f6bel - Die besten M\u00f6bel f\u00fcr Ihre K\u00fcche",
+                    "text": "K\u00fcchenm\u00f6bel sind ein wesentlicher Bestandteil einer jeden K\u00fcche. Sie k\u00f6nnen Ihre K\u00fcche in einem modernen oder traditionellen Stil einrichten. K\u00fcchenm\u00f6bel sind in vielen verschiedenen Stilen, Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Sie k\u00f6nnen K\u00fcchenm\u00f6bel aus Holz, Metall oder Kunststoff w\u00e4hlen.\n\nK\u00fcchenm\u00f6bel m\u00fcssen nicht teuer sein. Es gibt viele preiswerte M\u00f6belst\u00fccke, die Sie in Ihrer K\u00fcche verwenden k\u00f6nnen. Sie k\u00f6nnen auch Second-Hand-K\u00fcchenm\u00f6bel kaufen. Diese M\u00f6bel sind in der Regel in einem guten Zustand und k\u00f6nnen Ihnen helfen, Geld zu sparen.\n\nK\u00fcchenm\u00f6bel sollten so ausgew\u00e4hlt werden, dass sie Ihren Bed\u00fcrfnissen entsprechen. Sie sollten auch darauf achten, dass die M\u00f6bel leicht zu reinigen sind. K\u00fcchenm\u00f6bel sollten auch robust und langlebig sein.\n\nEs gibt viele verschiedene Arten von K\u00fcchenm\u00f6beln. Sie k\u00f6nnen K\u00fcchenm\u00f6bel f\u00fcr die Aufbewahrung, die Arbeitsfl\u00e4che, die K\u00fccheninsel und den Essbereich w\u00e4hlen. K\u00fcchenm\u00f6bel sollten so ausgew\u00e4hlt werden, dass sie Ihren Bed\u00fcrfnissen entsprechen.\n\nK\u00fcchenm\u00f6bel sollten so ausgew\u00e4hlt werden, dass sie Ihren Bed\u00fcrfnissen entsprechen. Sie sollten auch darauf achten, dass die M\u00f6bel leicht zu reinigen sind. K\u00fcchenm\u00f6bel"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "K\u00fcchenm\u00f6bel Shop",
+            "metaDescription": "K\u00fcchenm\u00f6bel Shop - Hier findest du alles f\u00fcr deine K\u00fcche. Von K\u00fcchenutensilien \u00fcber K\u00fcchenm\u00f6bel bis hin zu K\u00fcchenaccessoires.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "K\u00fcchenm\u00f6bel-Hersteller",
+            "metaDescription": "K\u00fcchenm\u00f6bel Hersteller - Wir sind ein f\u00fchrender Hersteller von K\u00fcchenm\u00f6beln. Wir bieten eine gro\u00dfe Auswahl an K\u00fcchenm\u00f6beln f\u00fcr jeden Geschmack und jeden Geldbeutel.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "K\u00fcchenm\u00f6bel - $PRODUKT",
+        "defaultMetaDescription": "K\u00fcchenm\u00f6bel von $HERSTELLER in $KATEGORIE. Finden Sie Ihr neues $PRODUKT f\u00fcr Ihre K\u00fcche bei uns!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "K\u00fcchenm\u00f6bel: $KATEGORIE f\u00fcr Ihre Traumk\u00fcche",
+        "defaultMetaDescription": "K\u00fcchenm\u00f6bel in gro\u00dfer Auswahl bei $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "K\u00fcchenm\u00f6bel von $HERSTELLER - kompromisslos in Qualit\u00e4t und Design. Lassen Sie sich von unseren K\u00fcchenm\u00f6beln inspirieren!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "K\u00fcchenm\u00f6bel",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "K\u00fcchenm\u00f6bel Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "K\u00fcchenm\u00f6bel Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
