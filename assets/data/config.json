@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
-    "domain": "shop-k\u00fcche.de",
-    "hostname": "https://www.shop-k\u00fcche.de/",
-    "email": "shop-k\u00fcche.desurrealnetworks.io",
-    "organization": "shop-k\u00fcche.de",
-    "logoText": "Shop-k\u00fcche.de",
-    "title": "K\u00fcchenm\u00f6bel",
-    "subline": "Der Online Shop f\u00fcr K\u00fcchenm\u00f6bel",
+    "configIsReady": false,
+    "domain": "shop-küche.de",
+    "hostname": "https://www.shop-küche.de/",
+    "email": "shop-küche.desurrealnetworks.io",
+    "organization": "shop-küche.de",
+    "logoText": "Shop-küche.de",
+    "title": "Küchenmöbel",
+    "subline": "Der Online Shop für Küchenmöbel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
         "7564735"
     ],
     "featuredCategories": [
-        "K\u00fcchenschr\u00e4nke",
-        "K\u00fcchenunterschr\u00e4nke",
-        "K\u00fcchenschr\u00e4nke",
-        "K\u00fcchen-H\u00e4ngeschr\u00e4nke",
-        "K\u00fcchenschr\u00e4nke",
-        "Herdumbauschr\u00e4nke"
+        "Küchenschränke",
+        "Küchenunterschränke",
+        "Küchenschränke",
+        "Küchen-Hängeschränke",
+        "Küchenschränke",
+        "Herdumbauschränke"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "K\u00fcchenm\u00f6bel",
-        "featureText": "K\u00fcchenm\u00f6bel sind ein wesentlicher Bestandteil einer jeden K\u00fcche. Sie k\u00f6nnen Ihre K\u00fcche mit den richtigen M\u00f6beln vollst\u00e4ndig ausstatten. Wenn Sie auf der Suche nach den richtigen K\u00fcchenm\u00f6beln sind, sollten Sie sich f\u00fcr einen Shop entscheiden, der sich auf K\u00fcchenm\u00f6bel spezialisiert hat. In einem solchen Shop finden Sie eine gro\u00dfe Auswahl an unterschiedlichen K\u00fcchenm\u00f6beln. Sie k\u00f6nnen sich die M\u00f6bel in Ruhe ansehen und ausw\u00e4hlen.",
+        "mainKeyword": "Küchenmöbel",
+        "featureText": "Küchenmöbel sind ein wesentlicher Bestandteil einer jeden Küche. Sie können Ihre Küche mit den richtigen Möbeln vollständig ausstatten. Wenn Sie auf der Suche nach den richtigen Küchenmöbeln sind, sollten Sie sich für einen Shop entscheiden, der sich auf Küchenmöbel spezialisiert hat. In einem solchen Shop finden Sie eine große Auswahl an unterschiedlichen Küchenmöbeln. Sie können sich die Möbel in Ruhe ansehen und auswählen.",
         "index": {
-            "title": "K\u00fcchenm\u00f6bel - Die besten M\u00f6bel f\u00fcr Ihre K\u00fcche",
-            "metaDescription": "K\u00fcchenm\u00f6bel - M\u00f6bel f\u00fcr die K\u00fcche in bester Qualit\u00e4t und zu fairen Preisen. Jetzt online bestellen!",
+            "title": "Küchenmöbel - Die besten Möbel für Ihre Küche",
+            "metaDescription": "Küchenmöbel - Möbel für die Küche in bester Qualität und zu fairen Preisen. Jetzt online bestellen!",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "K\u00fcchenm\u00f6bel - Die besten M\u00f6bel f\u00fcr Ihre K\u00fcche",
-                    "text": "K\u00fcchenm\u00f6bel sind ein wesentlicher Bestandteil einer jeden K\u00fcche. Sie k\u00f6nnen Ihre K\u00fcche in einem modernen oder traditionellen Stil einrichten. K\u00fcchenm\u00f6bel sind in vielen verschiedenen Stilen, Farben und Gr\u00f6\u00dfen erh\u00e4ltlich. Sie k\u00f6nnen K\u00fcchenm\u00f6bel aus Holz, Metall oder Kunststoff w\u00e4hlen.\n\nK\u00fcchenm\u00f6bel m\u00fcssen nicht teuer sein. Es gibt viele preiswerte M\u00f6belst\u00fccke, die Sie in Ihrer K\u00fcche verwenden k\u00f6nnen. Sie k\u00f6nnen auch Second-Hand-K\u00fcchenm\u00f6bel kaufen. Diese M\u00f6bel sind in der Regel in einem guten Zustand und k\u00f6nnen Ihnen helfen, Geld zu sparen.\n\nK\u00fcchenm\u00f6bel sollten so ausgew\u00e4hlt werden, dass sie Ihren Bed\u00fcrfnissen entsprechen. Sie sollten auch darauf achten, dass die M\u00f6bel leicht zu reinigen sind. K\u00fcchenm\u00f6bel sollten auch robust und langlebig sein.\n\nEs gibt viele verschiedene Arten von K\u00fcchenm\u00f6beln. Sie k\u00f6nnen K\u00fcchenm\u00f6bel f\u00fcr die Aufbewahrung, die Arbeitsfl\u00e4che, die K\u00fccheninsel und den Essbereich w\u00e4hlen. K\u00fcchenm\u00f6bel sollten so ausgew\u00e4hlt werden, dass sie Ihren Bed\u00fcrfnissen entsprechen.\n\nK\u00fcchenm\u00f6bel sollten so ausgew\u00e4hlt werden, dass sie Ihren Bed\u00fcrfnissen entsprechen. Sie sollten auch darauf achten, dass die M\u00f6bel leicht zu reinigen sind. K\u00fcchenm\u00f6bel"
+                    "title": "Küchenmöbel - Die besten Möbel für Ihre Küche",
+                    "text": "Küchenmöbel sind ein wesentlicher Bestandteil einer jeden Küche. Sie können Ihre Küche in einem modernen oder traditionellen Stil einrichten. Küchenmöbel sind in vielen verschiedenen Stilen, Farben und Größen erhältlich. Sie können Küchenmöbel aus Holz, Metall oder Kunststoff wählen.\n\nKüchenmöbel müssen nicht teuer sein. Es gibt viele preiswerte Möbelstücke, die Sie in Ihrer Küche verwenden können. Sie können auch Second-Hand-Küchenmöbel kaufen. Diese Möbel sind in der Regel in einem guten Zustand und können Ihnen helfen, Geld zu sparen.\n\nKüchenmöbel sollten so ausgewählt werden, dass sie Ihren Bedürfnissen entsprechen. Sie sollten auch darauf achten, dass die Möbel leicht zu reinigen sind. Küchenmöbel sollten auch robust und langlebig sein.\n\nEs gibt viele verschiedene Arten von Küchenmöbeln. Sie können Küchenmöbel für die Aufbewahrung, die Arbeitsfläche, die Kücheninsel und den Essbereich wählen. Küchenmöbel sollten so ausgewählt werden, dass sie Ihren Bedürfnissen entsprechen.\n\nKüchenmöbel sollten so ausgewählt werden, dass sie Ihren Bedürfnissen entsprechen. Sie sollten auch darauf achten, dass die Möbel leicht zu reinigen sind. Küchenmöbel"
                 }
             ]
         },
         "shop": {
-            "title": "K\u00fcchenm\u00f6bel Shop",
-            "metaDescription": "K\u00fcchenm\u00f6bel Shop - Hier findest du alles f\u00fcr deine K\u00fcche. Von K\u00fcchenutensilien \u00fcber K\u00fcchenm\u00f6bel bis hin zu K\u00fcchenaccessoires.",
+            "title": "Küchenmöbel Shop",
+            "metaDescription": "Küchenmöbel Shop - Hier findest du alles für deine Küche. Von Küchenutensilien über Küchenmöbel bis hin zu Küchenaccessoires.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "K\u00fcchenm\u00f6bel-Hersteller",
-            "metaDescription": "K\u00fcchenm\u00f6bel Hersteller - Wir sind ein f\u00fchrender Hersteller von K\u00fcchenm\u00f6beln. Wir bieten eine gro\u00dfe Auswahl an K\u00fcchenm\u00f6beln f\u00fcr jeden Geschmack und jeden Geldbeutel.",
+            "title": "Küchenmöbel-Hersteller",
+            "metaDescription": "Küchenmöbel Hersteller - Wir sind ein führender Hersteller von Küchenmöbeln. Wir bieten eine große Auswahl an Küchenmöbeln für jeden Geschmack und jeden Geldbeutel.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "K\u00fcchenm\u00f6bel - $PRODUKT",
-        "defaultMetaDescription": "K\u00fcchenm\u00f6bel von $HERSTELLER in $KATEGORIE. Finden Sie Ihr neues $PRODUKT f\u00fcr Ihre K\u00fcche bei uns!",
+        "defaultTitle": "Küchenmöbel - $PRODUKT",
+        "defaultMetaDescription": "Küchenmöbel von $HERSTELLER in $KATEGORIE. Finden Sie Ihr neues $PRODUKT für Ihre Küche bei uns!",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "K\u00fcchenm\u00f6bel: $KATEGORIE f\u00fcr Ihre Traumk\u00fcche",
-        "defaultMetaDescription": "K\u00fcchenm\u00f6bel in gro\u00dfer Auswahl bei $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
+        "defaultTitle": "Küchenmöbel: $KATEGORIE für Ihre Traumküche",
+        "defaultMetaDescription": "Küchenmöbel in großer Auswahl bei $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "K\u00fcchenm\u00f6bel von $HERSTELLER - kompromisslos in Qualit\u00e4t und Design. Lassen Sie sich von unseren K\u00fcchenm\u00f6beln inspirieren!",
+        "defaultMetaDescription": "Küchenmöbel von $HERSTELLER - kompromisslos in Qualität und Design. Lassen Sie sich von unseren Küchenmöbeln inspirieren!",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "K\u00fcchenm\u00f6bel",
+            "linkTitle": "Küchenmöbel",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "K\u00fcchenm\u00f6bel Shop",
+            "linkTitle": "Küchenmöbel Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "K\u00fcchenm\u00f6bel Marken",
+            "linkTitle": "Küchenmöbel Marken",
             "publish": true
         },
         {
