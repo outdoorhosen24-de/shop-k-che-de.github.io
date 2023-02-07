@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "shop-küche.de",
     "hostname": "https://www.shop-küche.de/",
     "email": "shop-küche.de@surrealnetworks.io",
     "organization": "shop-küche.de",
     "logoText": "Shop-küche.de",
-    "title": "Küchenmöbel",
-    "subline": "Der Online Shop für Küchenmöbel",
+    "title": "Küchenschränke",
+    "subline": "Der Online Shop für Ihre Küche",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Küchenmöbel",
-        "featureText": "Küchenmöbel sind ein wesentlicher Bestandteil einer jeden Küche. Sie können Ihre Küche mit den richtigen Möbeln vollständig ausstatten. Wenn Sie auf der Suche nach den richtigen Küchenmöbeln sind, sollten Sie sich für einen Shop entscheiden, der sich auf Küchenmöbel spezialisiert hat. In einem solchen Shop finden Sie eine große Auswahl an unterschiedlichen Küchenmöbeln. Sie können sich die Möbel in Ruhe ansehen und auswählen.",
+        "featureText": "Willkommen in unserem Shop! Sie suchen passende Schränke für Ihre Küche? Dann sind Sie hier genau richtig!  Wir führen Küchenschränke in allen Größen, Farben und Ausführungen. Egal ob Hängeschränke, Unterschränke, Apothekerschränke, Eckschränke oder andere ausgewählte Küchenschränke. Bei uns finden Sie den passenden Schrank für Ihre Küche!",
         "index": {
-            "title": "Küchenmöbel - Die besten Möbel für Ihre Küche",
-            "metaDescription": "Küchenmöbel - Möbel für die Küche in bester Qualität und zu fairen Preisen. Jetzt online bestellen!",
+            "title": "Küchenschränke [günstig online bestellen]",
+            "metaDescription": "Bei uns finden Sie: Hängeschränke • Unterschränke • Apothekerschränke • Eckschränke • Vorratsschränke sowie andere ausgewählte Küchenschränke. | Zu Top-Preisen!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Küchenmöbel Shop",
-            "metaDescription": "Küchenmöbel Shop - Hier findest du alles für deine Küche. Von Küchenutensilien über Küchenmöbel bis hin zu Küchenaccessoires.",
+            "title": "Online Shop für Küchenschränke",
+            "metaDescription": "Küchenschränke in sämtlichen Größen, Farben & Designs | Bequemes Auswählen und Bestellen von zu Hause | Top Preis & Schnelle Lieferung! | Alles auf Lager!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Küchenmöbel-Hersteller",
-            "metaDescription": "Küchenmöbel Hersteller - Wir sind ein führender Hersteller von Küchenmöbeln. Wir bieten eine große Auswahl an Küchenmöbeln für jeden Geschmack und jeden Geldbeutel.",
+            "title": "Küchenschränke » Hersteller",
+            "metaDescription": "Eine Übersicht all unserer Hersteller für Küchenschränke auf einen Blick! | Entdecken Sie tolle Produkte von namhaften Anbietern wie Wenko, Optifit & mehr!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Küchenmöbel - $PRODUKT",
-        "defaultMetaDescription": "Küchenmöbel von $HERSTELLER in $KATEGORIE. Finden Sie Ihr neues $PRODUKT für Ihre Küche bei uns!",
+        "defaultTitle": "$PRODUKT | günstig shoppen",
+        "defaultMetaDescription": "Küchenschränke von $HERSTELLER aus der Kategorie $KATEGORIE! | Entdecken Sie neben $PRODUKT weitere tolle Produkte für Ihre Küche!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Küchenmöbel: $KATEGORIE für Ihre Traumküche",
-        "defaultMetaDescription": "Küchenmöbel in großer Auswahl bei $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
+        "defaultTitle": "$KATEGORIE - Unser Shop mit großer Auswahl",
+        "defaultMetaDescription": "Top Auswahl an Küchenmöbeln aus der Kategorie $KATEGORIE | Jetzt online bestellen. Wir liefern schnell! | Weitere Kategorien zum Thema Küchenmöbel bei uns!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Küchenmöbel von $HERSTELLER - kompromisslos in Qualität und Design. Lassen Sie sich von unseren Küchenmöbeln inspirieren!",
+        "defaultTitle": "$HERSTELLER - Top Qualität",
+        "defaultMetaDescription": "Entdecken Sie Qualitätsprodukte vom Hersteller $HERSTELLER. | Kompromisslos in der Qualität und im Design! | Schnelle Lieferung zu fairen Preisen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
