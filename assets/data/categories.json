@@ -2,70 +2,70 @@
     {
         "key": "küchenschränke",
         "name": "Küchenschränke",
-        "slug": "kuchenschranke",
+        "slug": "kuechenschraenke",
         "productCategory": "Küchenschränke",
         "subCategories": []
     },
     {
         "key": "geschirrschränke",
         "name": "Geschirrschränke",
-        "slug": "geschirrschranke",
+        "slug": "geschirrschraenke",
         "productCategory": "Geschirrschränke",
         "subCategories": []
     },
     {
         "key": "küchenunterschränke",
         "name": "Küchenunterschränke",
-        "slug": "kuchenunterschranke",
+        "slug": "kuechenunterschraenke",
         "productCategory": "Küchenunterschränke",
         "subCategories": []
     },
     {
         "key": "küchen-hängeschränke",
         "name": "Küchen-Hängeschränke",
-        "slug": "kuchen-hangeschranke",
+        "slug": "kuechen-haengeschraenke",
         "productCategory": "Küchen-Hängeschränke",
         "subCategories": []
     },
     {
         "key": "spülenunterschränke",
         "name": "Spülenunterschränke",
-        "slug": "spulenunterschranke",
+        "slug": "spuelenunterschraenke",
         "productCategory": "Spülenunterschränke",
         "subCategories": []
     },
     {
         "key": "herdumbauschränke",
         "name": "Herdumbauschränke",
-        "slug": "herdumbauschranke",
+        "slug": "herdumbauschraenke",
         "productCategory": "Herdumbauschränke",
         "subCategories": []
     },
     {
         "key": "apothekerschränke",
         "name": "Apothekerschränke",
-        "slug": "apothekerschranke",
+        "slug": "apothekerschraenke",
         "productCategory": "Apothekerschränke",
         "subCategories": []
     },
     {
         "key": "küchenrückwände",
         "name": "Küchenrückwände",
-        "slug": "kuchenruckwande",
+        "slug": "kuechenrueckwaende",
         "productCategory": "Küchenrückwände",
         "subCategories": []
     },
     {
         "key": "vorratsschränke",
         "name": "Vorratsschränke",
-        "slug": "vorratsschranke",
+        "slug": "vorratsschraenke",
         "productCategory": "Vorratsschränke",
         "subCategories": []
     },
     {
         "key": "küchen-eckschränke",
         "name": "Küchen-Eckschränke",
-        "slug": "kuchen-eckschranke",
+        "slug": "kuechen-eckschraenke",
         "productCategory": "Küchen-Eckschränke",
         "subCategories": []
     }
