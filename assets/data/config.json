@@ -1,12 +1,12 @@
 {
   "configIsReady": true,
-  "domain": "shop-k\u00fcche.de",
-  "hostname": "https://www.shop-k\u00fcche.de/",
-  "email": "shop-k\u00fcche.de@surrealnetworks.io",
-  "organization": "shop-k\u00fcche.de",
-  "logoText": "Shop-k\u00fcche.de",
-  "title": "K\u00fcchenschr\u00e4nke",
-  "subline": "Der Online Shop f\u00fcr Ihre K\u00fcche",
+  "domain": "shop-küche.de",
+  "hostname": "https://www.shop-küche.de/",
+  "email": "shop-küche.de@surrealnetworks.io",
+  "organization": "shop-küche.de",
+  "logoText": "Shop-küche.de",
+  "title": "Küchenschränke",
+  "subline": "Der Online Shop für Ihre Küche",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
     "7564735"
   ],
   "featuredCategories": [
-    "K\u00fcchenschr\u00e4nke",
-    "K\u00fcchenunterschr\u00e4nke",
-    "K\u00fcchenschr\u00e4nke",
-    "K\u00fcchen-H\u00e4ngeschr\u00e4nke",
-    "K\u00fcchenschr\u00e4nke",
-    "Herdumbauschr\u00e4nke"
+    "Küchenschränke",
+    "Küchenunterschränke",
+    "Küchenschränke",
+    "Küchen-Hängeschränke",
+    "Küchenschränke",
+    "Herdumbauschränke"
   ],
   "socialMediaAccounts": [],
   "imageQuality": 90,
@@ -45,92 +45,125 @@
   ],
   "seo": {
     "htmlLang": "de",
-    "mainKeyword": "K\u00fcchenm\u00f6bel",
-    "featureText": "Willkommen in unserem Shop! Sie suchen passende Schr\u00e4nke f\u00fcr Ihre K\u00fcche? Dann sind Sie hier genau richtig!  Wir f\u00fchren K\u00fcchenschr\u00e4nke in allen Gr\u00f6\u00dfen, Farben und Ausf\u00fchrungen. Egal ob H\u00e4ngeschr\u00e4nke, Unterschr\u00e4nke, Apothekerschr\u00e4nke, Eckschr\u00e4nke oder andere ausgew\u00e4hlte K\u00fcchenschr\u00e4nke. Bei uns finden Sie den passenden Schrank f\u00fcr Ihre K\u00fcche!",
+    "mainKeyword": "Küchenmöbel",
+    "featureText": "Willkommen in unserem Shop! Sie suchen passende Schränke für Ihre Küche? Dann sind Sie hier genau richtig!  Wir führen Küchenschränke in allen Größen, Farben und Ausführungen. Egal ob Hängeschränke, Unterschränke, Apothekerschränke, Eckschränke oder andere ausgewählte Küchenschränke. Bei uns finden Sie den passenden Schrank für Ihre Küche!",
     "index": {
-      "title": "K\u00fcchenschr\u00e4nke [g\u00fcnstig online bestellen]",
-      "metaDescription": "Bei uns finden Sie: H\u00e4ngeschr\u00e4nke \u2022 Unterschr\u00e4nke \u2022 Apothekerschr\u00e4nke \u2022 Eckschr\u00e4nke \u2022 Vorratsschr\u00e4nke sowie andere ausgew\u00e4hlte K\u00fcchenschr\u00e4nke. | Zu Top-Preisen!",
+      "title": "Küchenschränke [günstig online bestellen]",
+      "metaDescription": "Bei uns finden Sie: Hängeschränke • Unterschränke • Apothekerschränke • Eckschränke • Vorratsschränke sowie andere ausgewählte Küchenschränke. | Zu Top-Preisen!",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
-            "title": "Willkommen bei Shop-K\u00fcche",
-            "text": "Herzlich willkommen bei Shop-K\u00fcche, Ihrem Online-Shop f\u00fcr hochwertige K\u00fcchenm\u00f6bel. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen K\u00fcchenschr\u00e4nken, Geschirrschr\u00e4nken, K\u00fcchenunterschr\u00e4nken, H\u00e4ngeschr\u00e4nken, Sp\u00fclenunterschr\u00e4nken, Herdumbauschr\u00e4nken, Apothekerschr\u00e4nken, K\u00fcchenr\u00fcckw\u00e4nden, Vorratsschr\u00e4nken und Eckschr\u00e4nken. Jedes unserer M\u00f6belst\u00fccke wurde sorgf\u00e4ltig ausgew\u00e4hlt, um Ihnen die besten Optionen f\u00fcr Ihre K\u00fcche anzubieten. Wir sind stolz darauf, Ihnen eine gro\u00dfe Auswahl an hochwertigen M\u00f6beln zu einem erschwinglichen Preis anzubieten. St\u00f6bern Sie durch unsere Kategorien und finden Sie das perfekte M\u00f6belst\u00fcck f\u00fcr Ihre K\u00fcche. Wir freuen uns darauf, Ihnen bei der Gestaltung Ihrer Traumk\u00fcche zu helfen."
+            "title": "Willkommen bei Shop-Küche",
+            "text": "Herzlich willkommen bei Shop-Küche, Ihrem Online-Shop für hochwertige Küchenmöbel. Wir bieten Ihnen eine große Auswahl an verschiedenen Küchenschränken, Geschirrschränken, Küchenunterschränken, Hängeschränken, Spülenunterschränken, Herdumbauschränken, Apothekerschränken, Küchenrückwänden, Vorratsschränken und Eckschränken. Jedes unserer Möbelstücke wurde sorgfältig ausgewählt, um Ihnen die besten Optionen für Ihre Küche anzubieten. Wir sind stolz darauf, Ihnen eine große Auswahl an hochwertigen Möbeln zu einem erschwinglichen Preis anzubieten. Stöbern Sie durch unsere Kategorien und finden Sie das perfekte Möbelstück für Ihre Küche. Wir freuen uns darauf, Ihnen bei der Gestaltung Ihrer Traumküche zu helfen."
           },
           {
-            "title": "K\u00fcchenschr\u00e4nke",
-            "text": "Unsere <a href=\"/kategorie/kuechenschraenke/\" title=\"K\u00fcchenschr\u00e4nke\">K\u00fcchenschr\u00e4nke</a> bieten Ihnen viel Stauraum f\u00fcr Ihre K\u00fcchenutensilien und Lebensmittel. Wir f\u00fchren eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Stilen, um jedem Bedarf gerecht zu werden. Ob Sie einen einfachen und funktionalen Schrank oder einen mit zus\u00e4tzlichen Features wie Schubladen und T\u00fcren suchen, wir haben die perfekte L\u00f6sung f\u00fcr Sie. St\u00f6bern Sie durch unser Sortiment und finden Sie den K\u00fcchenschrank, der perfekt zu Ihrer K\u00fcche passt."
+            "title": "Küchenschränke",
+            "text": "Unsere <a href=\"/kategorie/kuechenschraenke/\" title=\"Küchenschränke\">Küchenschränke</a> bieten Ihnen viel Stauraum für Ihre Küchenutensilien und Lebensmittel. Wir führen eine große Auswahl an verschiedenen Größen und Stilen, um jedem Bedarf gerecht zu werden. Ob Sie einen einfachen und funktionalen Schrank oder einen mit zusätzlichen Features wie Schubladen und Türen suchen, wir haben die perfekte Lösung für Sie. Stöbern Sie durch unser Sortiment und finden Sie den Küchenschrank, der perfekt zu Ihrer Küche passt."
           },
           {
-            "title": "Geschirrschr\u00e4nke",
-            "text": "Unsere <a href=\"/kategorie/geschirrschraenke/\" title=\"Geschirrschr\u00e4nke\">Geschirrschr\u00e4nke</a> sind die perfekte L\u00f6sung f\u00fcr die Aufbewahrung Ihres Geschirrs. Wir f\u00fchren eine gro\u00dfe Auswahl an Gr\u00f6\u00dfen und Stilen, um jedem Bedarf gerecht zu werden. Ob Sie einen einfachen und funktionalen Schrank oder einen mit zus\u00e4tzlichen Features wie Schubladen und T\u00fcren suchen, wir haben die perfekte L\u00f6sung f\u00fcr Sie. St\u00f6bern Sie durch unser Sortiment und finden Sie den Geschirrschrank, der perfekt zu Ihrer K\u00fcche passt."
+            "title": "Geschirrschränke",
+            "text": "Unsere <a href=\"/kategorie/geschirrschraenke/\" title=\"Geschirrschränke\">Geschirrschränke</a> sind die perfekte Lösung für die Aufbewahrung Ihres Geschirrs. Wir führen eine große Auswahl an Größen und Stilen, um jedem Bedarf gerecht zu werden. Ob Sie einen einfachen und funktionalen Schrank oder einen mit zusätzlichen Features wie Schubladen und Türen suchen, wir haben die perfekte Lösung für Sie. Stöbern Sie durch unser Sortiment und finden Sie den Geschirrschrank, der perfekt zu Ihrer Küche passt."
           },
           {
-            "title": "K\u00fcchenunterschr\u00e4nke",
-            "text": "Unsere <a href=\"/kategorie/kuechenunterschraenke/\" title=\"K\u00fcchenunterschr\u00e4nke\">K\u00fcchenunterschr\u00e4nke</a> bieten Ihnen viel Stauraum f\u00fcr Ihre K\u00fcchenutensilien und Lebensmittel. Wir f\u00fchren eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Stilen, um jedem Bedarf gerecht zu werden. Ob Sie einen einfachen und funktionalen Schrank oder einen mit zus\u00e4tzlichen Features wie Schubladen und T\u00fcren suchen, wir haben die perfekte L\u00f6sung f\u00fcr Sie. St\u00f6bern Sie durch unser Sortiment und finden Sie den K\u00fcchenunterschrank, der perfekt zu Ihrer K\u00fcche passt."
+            "title": "Küchenunterschränke",
+            "text": "Unsere <a href=\"/kategorie/kuechenunterschraenke/\" title=\"Küchenunterschränke\">Küchenunterschränke</a> bieten Ihnen viel Stauraum für Ihre Küchenutensilien und Lebensmittel. Wir führen eine große Auswahl an verschiedenen Größen und Stilen, um jedem Bedarf gerecht zu werden. Ob Sie einen einfachen und funktionalen Schrank oder einen mit zusätzlichen Features wie Schubladen und Türen suchen, wir haben die perfekte Lösung für Sie. Stöbern Sie durch unser Sortiment und finden Sie den Küchenunterschrank, der perfekt zu Ihrer Küche passt."
           },
           {
-            "title": "K\u00fcchen-H\u00e4ngeschr\u00e4nke",
-            "text": "<a href=\"/kategorie/kuechen-haengeschraenke/\" title=\"K\u00fcchen-H\u00e4ngeschr\u00e4nke\">K\u00fcchen-H\u00e4ngeschr\u00e4nke</a> bieten eine praktische und moderne Aufbewahrungsl\u00f6sung f\u00fcr Ihre K\u00fcche. Diese Schr\u00e4nke sind einfach zu installieren und sparen wertvollen Platz in Ihrer K\u00fcche, da sie an der Wand montiert werden. Bei uns finden Sie eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und Stilen, um Ihren individuellen Bed\u00fcrfnissen und dem Design Ihrer K\u00fcche gerecht zu werden. Unsere K\u00fcchen-H\u00e4ngeschr\u00e4nke sind robust, langlebig und einfach zu reinigen, was sie zu einer idealen Wahl f\u00fcr Ihre K\u00fcche macht."
+            "title": "Küchen-Hängeschränke",
+            "text": "<a href=\"/kategorie/kuechen-haengeschraenke/\" title=\"Küchen-Hängeschränke\">Küchen-Hängeschränke</a> bieten eine praktische und moderne Aufbewahrungslösung für Ihre Küche. Diese Schränke sind einfach zu installieren und sparen wertvollen Platz in Ihrer Küche, da sie an der Wand montiert werden. Bei uns finden Sie eine große Auswahl an verschiedenen Größen und Stilen, um Ihren individuellen Bedürfnissen und dem Design Ihrer Küche gerecht zu werden. Unsere Küchen-Hängeschränke sind robust, langlebig und einfach zu reinigen, was sie zu einer idealen Wahl für Ihre Küche macht."
           },
           {
-            "title": "Sp\u00fclenunterschr\u00e4nke",
-            "text": "<a href=\"/kategorie/spuelenunterschraenke/\" title=\"Sp\u00fclenunterschr\u00e4nke\">Sp\u00fclenunterschr\u00e4nke</a> sind ein wichtiger Bestandteil Ihrer K\u00fcche, da sie Platz f\u00fcr Reinigungsutensilien und -produkte bieten. Sie k\u00f6nnen auch als zus\u00e4tzlicher Stauraum f\u00fcr K\u00fcchenutensilien und -zutaten genutzt werden. Bei uns finden Sie eine gro\u00dfe Auswahl an Sp\u00fclenunterschr\u00e4nken in verschiedenen Gr\u00f6\u00dfen und Stilen, um Ihren individuellen Bed\u00fcrfnissen und dem Design Ihrer K\u00fcche gerecht zu werden. Unsere Sp\u00fclenunterschr\u00e4nke sind robust, langlebig und einfach zu reinigen, was sie zu einer idealen Wahl f\u00fcr Ihre K\u00fcche macht."
+            "title": "Spülenunterschränke",
+            "text": "<a href=\"/kategorie/spuelenunterschraenke/\" title=\"Spülenunterschränke\">Spülenunterschränke</a> sind ein wichtiger Bestandteil Ihrer Küche, da sie Platz für Reinigungsutensilien und -produkte bieten. Sie können auch als zusätzlicher Stauraum für Küchenutensilien und -zutaten genutzt werden. Bei uns finden Sie eine große Auswahl an Spülenunterschränken in verschiedenen Größen und Stilen, um Ihren individuellen Bedürfnissen und dem Design Ihrer Küche gerecht zu werden. Unsere Spülenunterschränke sind robust, langlebig und einfach zu reinigen, was sie zu einer idealen Wahl für Ihre Küche macht."
           },
           {
-            "title": "Herdumbauschr\u00e4nke",
-            "text": "<a href=\"/kategorie/herdumbauschraenke/\" title=\"Herdumbauschr\u00e4nke\">Herdumbauschr\u00e4nke</a> bieten eine praktische und platzsparende L\u00f6sung, um Ihren Herd in Ihre K\u00fcche zu integrieren. Sie k\u00f6nnen als zus\u00e4tzlicher Stauraum f\u00fcr K\u00fcchenutensilien und -zutaten genutzt werden und sorgen daf\u00fcr, dass Ihre K\u00fcche ordentlich und aufger\u00e4umt aussieht. Bei uns finden Sie eine gro\u00dfe Auswahl an Herdumbauschr\u00e4nken in verschiedenen Gr\u00f6\u00dfen und Stilen, um Ihren individuellen Bed\u00fcrfnissen und dem Design Ihrer K\u00fcche gerecht zu werden. Unsere Herdumbauschr\u00e4nke sind robust, langlebig und einfach zu reinigen, was sie zu einer idealen Wahl f\u00fcr Ihre K\u00fcche macht."
+            "title": "Herdumbauschränke",
+            "text": "<a href=\"/kategorie/herdumbauschraenke/\" title=\"Herdumbauschränke\">Herdumbauschränke</a> bieten eine praktische und platzsparende Lösung, um Ihren Herd in Ihre Küche zu integrieren. Sie können als zusätzlicher Stauraum für Küchenutensilien und -zutaten genutzt werden und sorgen dafür, dass Ihre Küche ordentlich und aufgeräumt aussieht. Bei uns finden Sie eine große Auswahl an Herdumbauschränken in verschiedenen Größen und Stilen, um Ihren individuellen Bedürfnissen und dem Design Ihrer Küche gerecht zu werden. Unsere Herdumbauschränke sind robust, langlebig und einfach zu reinigen, was sie zu einer idealen Wahl für Ihre Küche macht."
           },
           {
-            "title": "Apothekerschr\u00e4nke",
-            "text": "<a href=\"/kategorie/apothekerschraenke/\" title=\"Apothekerschr\u00e4nke\">Apothekerschr\u00e4nke</a> sind ein wichtiger Bestandteil jeder K\u00fcche. Sie bieten viel zus\u00e4tzlichen Stauraum und sorgen daf\u00fcr, dass alle Dinge ordentlich verstaut sind. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Apothekerschr\u00e4nken in verschiedenen Gr\u00f6\u00dfen, Farben und Stilen. Alle Schr\u00e4nke sind aus hochwertigen Materialien hergestellt und werden Ihnen viele Jahre Freude bereiten. Schauen Sie sich unser Angebot an und finden Sie den perfekten Apothekerschrank f\u00fcr Ihre K\u00fcche."
+            "title": "Apothekerschränke",
+            "text": "<a href=\"/kategorie/apothekerschraenke/\" title=\"Apothekerschränke\">Apothekerschränke</a> sind ein wichtiger Bestandteil jeder Küche. Sie bieten viel zusätzlichen Stauraum und sorgen dafür, dass alle Dinge ordentlich verstaut sind. In unserem Online-Shop finden Sie eine große Auswahl an Apothekerschränken in verschiedenen Größen, Farben und Stilen. Alle Schränke sind aus hochwertigen Materialien hergestellt und werden Ihnen viele Jahre Freude bereiten. Schauen Sie sich unser Angebot an und finden Sie den perfekten Apothekerschrank für Ihre Küche."
           },
           {
-            "title": "K\u00fcchenr\u00fcckw\u00e4nde",
-            "text": "Eine K\u00fcchenr\u00fcckwand ist ein wichtiger Teil jeder K\u00fcche und sorgt f\u00fcr eine ordentliche und hygienische Arbeitsfl\u00e4che. In unserem Online-Shop bieten wir Ihnen eine gro\u00dfe Auswahl an <a href=\"/kategorie/kuechenrueckwaende/\" title=\"K\u00fcchenr\u00fcckw\u00e4nde\">K\u00fcchenr\u00fcckw\u00e4nde</a>n in verschiedenen Gr\u00f6\u00dfen, Farben und Materialien. Ob Sie eine R\u00fcckwand aus Glas, Edelstahl oder Kunststoff suchen, bei uns werden Sie f\u00fcndig. Schauen Sie sich unser Angebot an und finden Sie die perfekte R\u00fcckwand f\u00fcr Ihre K\u00fcche."
+            "title": "Küchenrückwände",
+            "text": "Eine Küchenrückwand ist ein wichtiger Teil jeder Küche und sorgt für eine ordentliche und hygienische Arbeitsfläche. In unserem Online-Shop bieten wir Ihnen eine große Auswahl an <a href=\"/kategorie/kuechenrueckwaende/\" title=\"Küchenrückwände\">Küchenrückwände</a>n in verschiedenen Größen, Farben und Materialien. Ob Sie eine Rückwand aus Glas, Edelstahl oder Kunststoff suchen, bei uns werden Sie fündig. Schauen Sie sich unser Angebot an und finden Sie die perfekte Rückwand für Ihre Küche."
           },
           {
-            "title": "Vorratsschr\u00e4nke",
-            "text": "<a href=\"/kategorie/vorratsschraenke/\" title=\"Vorratsschr\u00e4nke\">Vorratsschr\u00e4nke</a> sind ein unverzichtbarer Bestandteil jeder K\u00fcche. Sie bieten viel zus\u00e4tzlichen Stauraum f\u00fcr Lebensmittel und Vorr\u00e4te. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Vorratsschr\u00e4nken in verschiedenen Gr\u00f6\u00dfen, Farben und Stilen. Alle Schr\u00e4nke sind aus hochwertigen Materialien hergestellt und sorgen f\u00fcr eine ordentliche und hygienische Aufbewahrung Ihrer Vorr\u00e4te. Schauen Sie sich unser Angebot an und finden Sie den perfekten Vorratsschrank f\u00fcr Ihre K\u00fcche."
+            "title": "Vorratsschränke",
+            "text": "<a href=\"/kategorie/vorratsschraenke/\" title=\"Vorratsschränke\">Vorratsschränke</a> sind ein unverzichtbarer Bestandteil jeder Küche. Sie bieten viel zusätzlichen Stauraum für Lebensmittel und Vorräte. In unserem Online-Shop finden Sie eine große Auswahl an Vorratsschränken in verschiedenen Größen, Farben und Stilen. Alle Schränke sind aus hochwertigen Materialien hergestellt und sorgen für eine ordentliche und hygienische Aufbewahrung Ihrer Vorräte. Schauen Sie sich unser Angebot an und finden Sie den perfekten Vorratsschrank für Ihre Küche."
           },
           {
-            "title": "K\u00fcchen-Eckschr\u00e4nke im Online Shop",
-            "text": "Entdecken Sie bei shop-k\u00fcche.de eine gro\u00dfe Auswahl an K\u00fcchen-Eckschr\u00e4nken. Unsere K\u00fcchen-Eckschr\u00e4nke sind die perfekte L\u00f6sung, um jeden ungenutzten Eckbereich in Ihrer K\u00fcche optimal auszunutzen. Ob Sie einen einfachen Schrank f\u00fcr Ihre K\u00fcchenutensilien oder einen hochwertigen Schrank f\u00fcr Ihre T\u00f6pfe und Pfannen suchen, bei uns werden Sie f\u00fcndig. Alle unsere Eckschr\u00e4nke sind aus hochwertigen Materialien hergestellt und bieten hervorragende Funktionalit\u00e4t und Stauraum. St\u00f6bern Sie jetzt in unserem Online Shop und finden Sie den perfekten Eckschrank f\u00fcr Ihre K\u00fcche."
+            "title": "Küchen-Eckschränke im Online Shop",
+            "text": "Entdecken Sie bei shop-küche.de eine große Auswahl an Küchen-Eckschränken. Unsere Küchen-Eckschränke sind die perfekte Lösung, um jeden ungenutzten Eckbereich in Ihrer Küche optimal auszunutzen. Ob Sie einen einfachen Schrank für Ihre Küchenutensilien oder einen hochwertigen Schrank für Ihre Töpfe und Pfannen suchen, bei uns werden Sie fündig. Alle unsere Eckschränke sind aus hochwertigen Materialien hergestellt und bieten hervorragende Funktionalität und Stauraum. Stöbern Sie jetzt in unserem Online Shop und finden Sie den perfekten Eckschrank für Ihre Küche."
           }
         ]
       }
     },
     "shop": {
-      "title": "Online Shop f\u00fcr K\u00fcchenschr\u00e4nke",
-      "metaDescription": "K\u00fcchenschr\u00e4nke in s\u00e4mtlichen Gr\u00f6\u00dfen, Farben & Designs | Bequemes Ausw\u00e4hlen und Bestellen von zu Hause | Top Preis & Schnelle Lieferung! | Alles auf Lager!",
+      "title": "Online Shop für Küchenschränke",
+      "metaDescription": "Küchenschränke in sämtlichen Größen, Farben & Designs | Bequemes Auswählen und Bestellen von zu Hause | Top Preis & Schnelle Lieferung! | Alles auf Lager!",
       "robots": "index, follow"
     },
     "hersteller": {
-      "title": "K\u00fcchenschr\u00e4nke \u00bb Hersteller",
-      "metaDescription": "Eine \u00dcbersicht all unserer Hersteller f\u00fcr K\u00fcchenschr\u00e4nke auf einen Blick! | Entdecken Sie tolle Produkte von namhaften Anbietern wie Wenko, Optifit & mehr!",
+      "title": "Küchenschränke » Hersteller",
+      "metaDescription": "Eine Übersicht all unserer Hersteller für Küchenschränke auf einen Blick! | Entdecken Sie tolle Produkte von namhaften Anbietern wie Wenko, Optifit & mehr!",
       "robots": "index, follow"
     }
   },
   "productSeo": {
-    "defaultTitle": "$PRODUKT | g\u00fcnstig shoppen",
-    "defaultMetaDescription": "K\u00fcchenschr\u00e4nke von $HERSTELLER aus der Kategorie $KATEGORIE! | Entdecken Sie neben $PRODUKT weitere tolle Produkte f\u00fcr Ihre K\u00fcche!",
+    "defaultTitle": "$PRODUKT | günstig shoppen",
+    "defaultMetaDescription": "Küchenschränke von $HERSTELLER aus der Kategorie $KATEGORIE! | Entdecken Sie neben $PRODUKT weitere tolle Produkte für Ihre Küche!",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "7361900",
+        "seo": {
+          "texts": [
+            {
+              "title": "Flex-Well Classic Hängeschrank Nano 100 cm Buche Nachbildung",
+              "text": "<p class=\"justify\">Der Flex-Well Classic Hängeschrank Nano 100 cm Buche Nachbildung ist ein hochwertiges Küchenmöbel, das nicht nur durch seine ansprechende Optik, sondern auch durch seine Funktionalität überzeugt. Hergestellt in Deutschland und mit einer Breite von 100 cm bietet dieser Hängeschrank viel Stauraum für Geschirr, Gläser und Küchenutensilien. Das freundliche Buche Dekor sorgt dabei für eine angenehme Atmosphäre in Ihrer Küche.</p><p class=\"justify\">Die beiden Stollenglastüren des Flex-Well Classic Hängeschranks sind mit einem formschönen Bügelgriff in Edelstahl-Optik ausgestattet und ermöglichen einen schnellen Zugriff auf die im Schrank verstauten Objekte. Im Inneren des Schranks ist ein Einlegeboden, der für Ordnung sorgt und eine bessere Übersicht bietet. Die melaminbeschichtete Oberfläche ist robust und pflegeleicht, sodass der Hängeschrank auch nach längerem Gebrauch immer noch wie neu aussieht.</p><p class=\"justify\">Der Flex-Well Classic Hängeschrank Nano ist perfekt auf die Küchenserie Nano abgestimmt und ergänzt diese hervorragend. Die Maße des Schranks betragen 100 x 54 x 32 cm (B x H x T), wobei die Front und der Korpus aus qualitativ hochwertigen Spanplatten gefertigt sind. Das Produkt überzeugt mit einer hohen Verarbeitungsqualität und einer langen Lebensdauer.</p><p class=\"justify\">Für eine individuelle Gestaltung Ihrer Küche können Sie diesen Glas-Hängeschrank frei wählen, ob er links oder rechts montiert werden soll. Mit einer Lieferung in zerlegtem Zustand ist der Hängeschrank einfach und schnell selbst zu montieren. Bitte beachten Sie, dass die Lieferung ohne Dekoration und Armaturen erfolgt. Entdecken Sie die Flex-Well Classic Hängeschrank Nano 100 cm Buche Nachbildung und verleihen Sie Ihrer Küche eine neue, frische Optik.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "7368939",
+        "seo": {
+          "texts": [
+            {
+              "title": "Flex-Well Exclusiv Geräteumbauschrank Abaco 60 cm Perlmutt glänzend-Akazie",
+              "text": "<p class=\"justify\">Der Flex-Well Exclusiv Geräteumbauschrank Abaco mit der Artikelnummer 7368939 ist ein hochwertiges Produkt aus der Kategorie Vorratsschränke. Dieser stilvolle Schrank mit 60 cm Breite, 200 cm Höhe und 57 cm Tiefe ist ideal für jede Küche. Hergestellt in Deutschland, garantiert der Schrank eine ausgezeichnete Qualität und Verarbeitung. Er ist eine perfekte Ergänzung zur Küchenserie Abaco und sorgt für eine freundliche und helle Atmosphäre in Ihrem Zuhause.</p><p class=\"justify\">Die Front des Schranks besteht aus einer glänzenden Perlmuttoberfläche, während der Korpus in einer attraktiven Akazien-Optik gestaltet ist. Beide Teile sind aus Spanplatten gefertigt und mit einer melaminbeschichteten Oberfläche versehen. Der Bügelgriff in Edelstahl-Optik unterstreicht das moderne Design des Schranks.</p><p class=\"justify\">Der Flex-Well Exclusiv Geräteumbauschrank verfügt über insgesamt drei Drehtüren und einen Einlegeboden und ist für Einbaukühlgeräte mit einem Nischenmaß von 88 cm ausgelegt. Die Montage ist dank der flexiblen Selbstmontage (links oder rechts montierbar) besonders einfach. Bitte beachten Sie, dass zur Montage eine Wandbefestigung erforderlich ist.</p><p class=\"justify\">Mit seinem geschmackvollen Design und der qualitativ hochwertigen Verarbeitung stellt der Flex-Well Exclusiv Geräteumbauschrank eine hervorragende Wahl für jede Küche dar. Wenn Sie Ihren Stauraum optimieren und gleichzeitig ein stilvolles Element in Ihre Küche integrieren möchten, ist dieser Schrank genau das Richtige für Sie. Er wird Ihnen zerlegt geliefert und kann nach Ihren Wünschen montiert werden. Lassen Sie sich von diesem Produkt begeistern und erleben Sie den Unterschied, den der Flex-Well Exclusiv Geräteumbauschrank in Ihrer Küche machen kann.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "7564735",
+        "seo": {
+          "texts": [
+            {
+              "title": "Flex-Well Exclusiv Spülenunterschrank Morena 50 cm ohne Arbeitsplatte Basaltgrau",
+              "text": "<p class=\"justify\">Der Flex-Well Exclusiv Spülenunterschrank Morena 50 cm ist ein hochwertiges Küchenmöbelstück, das sich perfekt in jede Küche einfügt. Mit seiner zeitlosen, basaltgrauen Farbe und der edlen San Remo Eiche ist er eine ideale Ergänzung zur Küchenserie Morena. Top-Qualität „Made in Germany“ sorgt für lange Freude an dem modernen und geradlinigen Design, das Ihren Küchenbereich optisch aufwertet.</p><p class=\"justify\">Dieser Spülenunterschrank ist 50 cm breit, 82 cm hoch und 57 cm tief und verfügt über eine Drehtür, die eine flexible Selbstmontage ermöglicht. Die Planungstiefe beträgt 60 cm und der Korpus sowie die Front sind aus melaminbeschichteter Qualitätsspanplatte gefertigt, die für eine lange Lebensdauer und Strapazierfähigkeit sorgt. Der Bügelgriff aus Kunststoff ist in einer schicken Aluminiumfarbe gehalten und verleiht dem Möbelstück einen modernen Look.</p><p class=\"justify\">Bitte beachten Sie, dass der Flex-Well Exclusiv Spülenunterschrank Morena 50 cm ohne Arbeitsplatte und Einbauspüle geliefert wird. Er kann jedoch problemlos mit einer passenden Arbeitsplatte und Spüle Ihrer Wahl ergänzt werden. Die Lieferung erfolgt zerlegt, und die Montageanleitung ermöglicht Ihnen eine unkomplizierte und schnelle Montage. Mit 311 Kundenbewertungen und 5 Sternen überzeugt dieses Möbelstück durch Qualität und Design.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
-    "defaultTitle": "$KATEGORIE - Unser Shop mit gro\u00dfer Auswahl",
-    "defaultMetaDescription": "Top Auswahl an K\u00fcchenm\u00f6beln aus der Kategorie $KATEGORIE | Jetzt online bestellen. Wir liefern schnell! | Weitere Kategorien zum Thema K\u00fcchenm\u00f6bel bei uns!",
+    "defaultTitle": "$KATEGORIE - Unser Shop mit großer Auswahl",
+    "defaultMetaDescription": "Top Auswahl an Küchenmöbeln aus der Kategorie $KATEGORIE | Jetzt online bestellen. Wir liefern schnell! | Weitere Kategorien zum Thema Küchenmöbel bei uns!",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -138,8 +171,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -156,16 +189,16 @@
     ]
   },
   "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Top Qualit\u00e4t",
-    "defaultMetaDescription": "Entdecken Sie Qualit\u00e4tsprodukte vom Hersteller $HERSTELLER. | Kompromisslos in der Qualit\u00e4t und im Design! | Schnelle Lieferung zu fairen Preisen.",
+    "defaultTitle": "$HERSTELLER - Top Qualität",
+    "defaultMetaDescription": "Entdecken Sie Qualitätsprodukte vom Hersteller $HERSTELLER. | Kompromisslos in der Qualität und im Design! | Schnelle Lieferung zu fairen Preisen.",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
@@ -175,19 +208,19 @@
     {
       "title": "Start",
       "linkTo": "/",
-      "linkTitle": "K\u00fcchenm\u00f6bel",
+      "linkTitle": "Küchenmöbel",
       "publish": true
     },
     {
       "title": "Shop",
       "linkTo": "/shop/",
-      "linkTitle": "K\u00fcchenm\u00f6bel Shop",
+      "linkTitle": "Küchenmöbel Shop",
       "publish": true
     },
     {
       "title": "Marken",
       "linkTo": "/marken/",
-      "linkTitle": "K\u00fcchenm\u00f6bel Marken",
+      "linkTitle": "Küchenmöbel Marken",
       "publish": true
     },
     {
